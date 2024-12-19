@@ -1,5 +1,21 @@
 # IMDb-Rating-Predictions
-Predicting IMDb Ratings: A Supervised Machine Learning Project
+## Technologies and Skills
+### Technologies Used:
+- 📊 **Programming Language**: R
+- 🛠️ **Libraries and Tools**: ggplot2, dplyr, caret, MASS
+- 📈 **Regression Models**: Linear, Polynomial, and Spline Regression
+- 🔍 **Validation Techniques**: Leave-One-Out Cross-Validation (LOOCV)
+
+### Skills Demonstrated:
+- 🧹 **Data Preprocessing**: Cleaning and transforming datasets, handling outliers, and creating binary indicators for categorical variables.
+- 🔢 **Regression Modeling**: Testing and comparing linear, polynomial, and spline models to select the best predictors.
+- 📉 **Model Evaluation**: Using metrics like Adjusted R², Residual Standard Error, and RMSE to assess model performance.
+- 🧠 **Feature Engineering**: Creating and selecting key predictors such as genres, IMDb Pro rankings, and media coverage for improved model accuracy.
+- 📊 **Data Visualization**: Generating meaningful graphs and charts to present insights using ggplot2.
+- 📈 **Business Insights**: Translating technical results into actionable strategies for filmmakers, studios, and marketers.
+- 🤝 **Collaboration**: Working effectively in a team to ensure accurate analysis and impactful deliverables.
+- 🎤 **Communication**: Delivering project outcomes and recommendations through detailed reports and engaging presentations.
+
 
 ## Overview
 
